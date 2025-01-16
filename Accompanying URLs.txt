@@ -1,0 +1,4 @@
+// If or when I find an accompanying URL for the resource It'll go here
+//
+// Linear Algebra Done Right is an open source freely available textbook by Sheldon Axler
+https://linear.axler.net/
