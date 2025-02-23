@@ -1,4 +1,8 @@
 // If or when I find an accompanying URL for the resource It'll go here
-//
-// Linear Algebra Done Right is an open source freely available textbook by Sheldon Axler
+
+// EEE - EMAG - Fundamentals of Applied Electromagnetics 8e (2019) Fawwaz T Ulaby
+https://em8e.eecs.umich.edu/
+
+// Mathematics - Linear Algebra Done Right 4e (2025) Sheldon Axler
 https://linear.axler.net/
+
